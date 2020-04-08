@@ -12,9 +12,12 @@ text-align: center;
 padding: 0;
 }
 
-#sidebar ul li a {
+#sidebar ul li{
   display: block;
   padding: 15px 0;
+}
+
+#sidebar ul li a{}
   color: #fff;
   text-decoration: none;
   background-color: #000;
