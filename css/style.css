@@ -35,18 +35,18 @@
 }
 
 
-#sidebar{
-position: fixed;
-right:0%;
-background-color: red;
-height: 100%;
-width: 20%;
+#sidebar-container{
+  position: fixed;
+  right:0%;
+  background-color: red;
+  height: 100%;
+  width: 20%;
 }
 
-#sidebar-container ul{
-list-style-type: none;
-display: block;
-padding: 0;
+#sidebar ul{
+  list-style-type: none;
+  display: block;
+  padding: 0;
 }
 
 #sidebar ul li{
