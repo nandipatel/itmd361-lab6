@@ -34,6 +34,11 @@
   text-decoration: underline overline;
 }
 
+#sidebar-container{
+  text-align: center;
+  display: block;
+}
+
 #sidebar{
 position: fixed;
 right:0%;
@@ -48,8 +53,6 @@ padding: 0;
 }
 
 #sidebar ul li{
-  text-align: center;
-  display: block;
   padding: 15px 0;
 }
 
