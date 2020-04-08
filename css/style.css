@@ -17,7 +17,7 @@ padding: 0;
   padding: 15px 0;
 }
 
-#sidebar ul li a{}
+#sidebar ul li a{
   color: #fff;
   text-decoration: none;
   background-color: #000;
