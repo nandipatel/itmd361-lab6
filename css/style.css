@@ -45,12 +45,12 @@ width: 20%;
 
 #sidebar-container ul{
 list-style-type: none;
+display: block;
 padding: 0;
 }
 
 #sidebar ul li{
   text-align: center;
-  display: block;
   padding: 15px 0;
 }
 
