@@ -34,7 +34,7 @@
   text-decoration: underline overline;
 }
 
-#sidebar-container{
+#sidebar{
 position: fixed;
 right:0%;
 background-color: red;
@@ -42,13 +42,13 @@ height: 100%;
 width: 20%;
 }
 
-#sidebar ul{
+#sidebar-container ul{
 list-style-type: none;
-text-align: center;
 padding: 0;
 }
 
 #sidebar ul li{
+  text-align: center;
   display: block;
   padding: 15px 0;
 }
