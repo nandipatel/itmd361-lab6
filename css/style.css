@@ -51,10 +51,10 @@ padding: 0;
 #sidebar ul li{
   display: block;
   padding: 15px 0;
-  color: #fff;
 }
 
 #sidebar ul li a{
+  color: #fff;
   text-decoration: none;
   background-color: #000;
 }
