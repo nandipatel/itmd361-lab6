@@ -6,15 +6,18 @@
   float: left;
 }
 
-#navbar-container ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+#navbar-container{
   display: block;
   position: relative;
   left: 50%;
   right: 50%;
   float: left;
+}
+
+#main-navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 #main-navbar ul li{
@@ -36,7 +39,6 @@
 #onpage{
   text-decoration: underline overline;
 }
-
 
 #sidebar-container{
   position: fixed;
