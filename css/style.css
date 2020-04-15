@@ -3,7 +3,6 @@
   overflow: hidden;
   width: 100%;
   position: relative;
-  float: left;
 }
 
 #navbar-container{
@@ -21,7 +20,6 @@
 
 #main-navbar ul li{
   float: left;
-  position: relative;
 }
 
 #main-navbar ul li a{
